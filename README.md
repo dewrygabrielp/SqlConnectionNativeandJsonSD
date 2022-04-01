@@ -1,0 +1,2 @@
+# SqlConnectionNativeandJsonSD
+This project is an exercise where I make a connection to sql server and use it to perform a crud in a console application, I also program a serialization and deserialization of a json object and store this object in a .txt file that you can find inside bin/debug/% after the program has been run at least once.  To use this project as it is I have uploaded it to github I will also attach the database script
