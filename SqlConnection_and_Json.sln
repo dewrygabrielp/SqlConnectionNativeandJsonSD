@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlConnection_and_Json", "SqlConnection_and_Json.csproj", "{B2E0E682-D0BE-400E-9983-89DE4307541E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E0E682-D0BE-400E-9983-89DE4307541E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E0E682-D0BE-400E-9983-89DE4307541E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E0E682-D0BE-400E-9983-89DE4307541E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E0E682-D0BE-400E-9983-89DE4307541E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F2AEEA-7850-4AC3-A179-6A066E134C0F}
+	EndGlobalSection
+EndGlobal

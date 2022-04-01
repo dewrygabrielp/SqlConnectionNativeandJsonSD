@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = SqlConnection_and_Json
+build_property.ProjectDir = C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Connection to SQL Server and manipulation the Json\SqlConnection_and_Json\
